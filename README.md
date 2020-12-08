@@ -1,4 +1,4 @@
-# minimall
+# mall
 
 ## Project setup
 ```
